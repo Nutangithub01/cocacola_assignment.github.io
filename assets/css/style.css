@@ -1,0 +1,109 @@
+
+.section
+{
+	padding-top: 80px;
+	padding-bottom: 50px;
+}
+
+.justify-content-center
+{
+	justify-content: center;
+}
+.brand_logo
+{
+	width: 55px;
+}
+
+.coca_box
+{
+	width: 300px;
+	height: 250px;
+	background-color: black;
+	margin: 20px;
+	padding: 15px;
+}
+
+
+h1,h2
+{
+	font-weight: 600;
+}
+
+
+.footer
+{
+	background: #e21c2f;
+	color: white;
+	padding: 20px;
+}
+.footer a
+{
+	color: white;
+}
+.menus
+{
+	font-weight: 600;
+}
+
+
+.center
+{
+	text-align: center;
+}
+
+
+.coca_box
+{
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	color: white;
+	padding-top: 35px;
+}
+.coca_box1
+{
+	background-image: linear-gradient(hsl(0deg 2% 23% / 80%), rgb(2 3 7 / 80%)), url(../images/coca1.jpg);
+}
+.coca_box2
+{
+	background-image: linear-gradient(hsl(0deg 2% 23% / 80%), rgb(2 3 7 / 80%)), url(../images/coca2.jpg);
+}
+.coca_box3
+{
+	background-image: linear-gradient(hsl(0deg 2% 23% / 80%), rgb(2 3 7 / 80%)), url(../images/coca3.jpg);
+}
+.coca_box4
+{
+	background-image: linear-gradient(hsl(0deg 2% 23% / 80%), rgb(2 3 7 / 80%)), url(../images/coca4.png);
+}
+.coca_box5
+{
+	background-image: linear-gradient(hsl(0deg 2% 23% / 80%), rgb(2 3 7 / 80%)), url(../images/coca5.jpg);
+}
+.coca_box6
+{
+	background-image: linear-gradient(hsl(0deg 2% 23% / 80%), rgb(2 3 7 / 80%)), url(../images/coca6.jpg);
+}
+.coca_box7
+{
+	background-image: linear-gradient(hsl(0deg 2% 23% / 80%), rgb(2 3 7 / 80%)), url(../images/coca7.jpg);
+}
+.coca_box8
+{
+	background-image: linear-gradient(hsl(0deg 2% 23% / 80%), rgb(2 3 7 / 80%)), url(../images/coca8.jpg);
+}
+.coca_box9
+{
+	background-image: linear-gradient(hsl(0deg 2% 23% / 80%), rgb(2 3 7 / 80%)), url(../images/coca9.jpg);
+}
+.coca_box button
+{
+	padding: 5px 10px;
+	background: red;
+	margin-top: 10px;
+}
+.coca_box:hover button
+{
+	background: #e21c2f;
+	border: 2px solid white;
+}
